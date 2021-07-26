@@ -13,3 +13,7 @@
 ## Screenshots:
 
 ![Basket](/images/basket.png)
+
+### Responsiveness:
+
+![responsiveness](/images/responsiveness.jpg)
